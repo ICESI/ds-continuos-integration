@@ -1,0 +1,11 @@
+{
+	"plugins": {
+		"locale": "1.2",
+		"github": "1.22.3",
+		"workflow-aggregator": "2.4",
+		"ghprb": "1.33.1",
+		"ansicolor": "0.4.2",
+		"github-oauth": "0.24",
+		"saferestart": "0.3"
+	}
+}
